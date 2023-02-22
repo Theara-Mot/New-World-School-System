@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87170367986",
+    "project_id": "nws-sms",
+    "storage_bucket": "nws-sms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87170367986:android:23d31a98c2e2680b9d2b6b",
+        "android_client_info": {
+          "package_name": "com.example.sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87170367986-haehsjulrnjkr9h5bn64njs52h04mdih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAagNffL2uaFYqKzHYEapeLLOiW4U3ys54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87170367986-haehsjulrnjkr9h5bn64njs52h04mdih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
